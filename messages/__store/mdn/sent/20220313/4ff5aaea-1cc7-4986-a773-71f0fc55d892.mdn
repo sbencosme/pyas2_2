@@ -1,0 +1,61 @@
+--===============0517600673==
+Content-Type: multipart/report; report-type="disposition-notification"; boundary="===============1912554466=="
+MIME-Version: 1.0
+
+--===============1912554466==
+Content-Type: text/plain
+Content-Transfer-Encoding: 7bit
+
+The AS2 message could not be processed. The disposition-notification report has additional details.
+
+--===============1912554466==
+Content-Type: message/disposition-notification
+Content-Transfer-Encoding: 7bit
+
+Reporting-UA: pyAS2 Open Source AS2 Software
+Original-Recipient: rfc822; p2as2
+Final-Recipient: rfc822; p2as2
+Original-Message-ID: <164720385820.12788.6011033600643517417@SBENCOSME-LT.EDR.local>
+Disposition: automatic-action/MDN-sent-automatically; processed/Error: decryption-failed
+
+--===============1912554466==--
+
+--===============0517600673==
+Content-Type: application/pkcs7-signature; name="smime.p7s"; smime-type="signed-data"
+Content-Disposition: attachment; filename="smime.p7s"
+Content-Transfer-Encoding: base64
+
+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
+7WDVFC0vuHh431k9aA==
+
+--===============0517600673==--

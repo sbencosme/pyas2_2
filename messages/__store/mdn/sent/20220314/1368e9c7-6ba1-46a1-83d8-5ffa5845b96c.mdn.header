@@ -1,0 +1,8 @@
+Content-Type: multipart/signed; protocol="application/pkcs7-signature"; micalg="sha256"; boundary="===============0441461402=="
+AS2-Version: 1.2
+ediint-features: CMS
+Message-ID: <164725995901.20672.2421997528977602550@SBENCOSME-LT.EDR.local>
+AS2-From: p2as2
+AS2-To: p1as2
+Date: Mon, 14 Mar 2022 08:12:39 -0400
+user-agent: pyAS2 Open Source AS2 Software
